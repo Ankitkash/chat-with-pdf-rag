@@ -102,7 +102,7 @@ chat-with-pdf-rag/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/<your-username>/chat-with-pdf-rag.git
+git clone https://github.com/Ankitkash/chat-with-pdf-rag.git
 cd chat-with-pdf-rag
 ```
 
